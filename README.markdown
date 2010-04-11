@@ -64,5 +64,5 @@ e.g.:
     a = [1..10]
 
     -- sort a for use by a 2 column liquid layout
-    columnSort a 2
+    columnSorted = columnSort a 2
     -- this would return: [1,6,2,7,3,8,4,9,5,10]
